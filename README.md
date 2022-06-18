@@ -1,2 +1,2 @@
-# PogjectDuck
+# DuckPog
 A Modpack for myself
